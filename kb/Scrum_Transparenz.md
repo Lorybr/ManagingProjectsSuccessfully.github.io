@@ -2,7 +2,7 @@
 title: Scrum_Transparenz
 tags: agil klassisch
 author: Lorybr
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Scrum_Transparenz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
